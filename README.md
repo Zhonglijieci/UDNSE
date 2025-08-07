@@ -1,4 +1,4 @@
-# UDNSE: A Universal DNN Neuron State Encryption Framework
+# UDNSE:  A Universal DNN-based Symmetric Encryption Framework Using Adversarial Examples
 
 *KEYWORDS：Neural networks, Cryptography, Deep learning, Adversarial examples, encryption*
 
